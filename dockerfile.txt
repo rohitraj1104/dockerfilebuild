@@ -1,0 +1,3 @@
+from ubuntu
+env sp_release = "created for GIT BASH"
+cmd enho "Sprint created fo CI pipeline..."
